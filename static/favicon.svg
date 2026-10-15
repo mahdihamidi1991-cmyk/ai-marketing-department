@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">MH</title>
+  <desc id="desc">An orange geometric MH monogram with a shared stem, on a rounded graphite tile.</desc>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="#3D4249"/>
+  <rect x="1" y="1" width="62" height="62" rx="17" stroke="#6F8191" stroke-opacity=".38"/>
+  <path d="M14 45V19L26 32L38 19V45M38 32H51M51 19V45" stroke="#F2630D" stroke-width="4.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
