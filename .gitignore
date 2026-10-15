@@ -1,0 +1,15 @@
+.env
+.remote.env*
+.ngrok.yml*
+.cloudflare-token*
+bin/
+data/
+__pycache__/
+*.pyc
+.DS_Store
+*.sqlite3*
+*.db
+*.lock
+.venv/
+node_modules/
+coverage/
