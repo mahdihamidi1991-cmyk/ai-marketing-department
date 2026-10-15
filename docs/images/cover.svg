@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+<title id="title">AI Marketing Department</title><desc id="desc">One brief flows through an AI CMO and specialist perspectives into one answer. A local-first open-source workspace.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171b20"/><stop offset="1" stop-color="#30373f"/></linearGradient><radialGradient id="glow"><stop stop-color="#f2630d" stop-opacity=".16"/><stop offset="1" stop-color="#f2630d" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="800" rx="28" fill="url(#bg)"/><ellipse cx="1250" cy="400" rx="450" ry="400" fill="url(#glow)"/>
+<g font-family="Arial, Helvetica, sans-serif"><rect x="80" y="70" width="40" height="40" rx="12" fill="#f2630d"/><path d="M90 99V82l10 10 10-10v17" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/><text x="140" y="98" fill="#cbd2d9" font-size="19" letter-spacing="3">AN OPEN-SOURCE WORKSPACE</text>
+<text x="80" y="230" fill="#f5f6f7" font-size="92" font-weight="700" letter-spacing="-5">AI Marketing</text><text x="80" y="333" fill="#f5f6f7" font-size="92" font-weight="700" letter-spacing="-5">Department.</text>
+<text x="84" y="407" fill="#cbd2d9" font-size="30">A whole department. One conversation.</text>
+<text x="84" y="470" fill="#9cabb8" font-size="21">Give it a brief. See the work. Review the answer.</text>
+<g stroke="#6f8191" stroke-width="2" fill="none"><path d="M1090 330h55v-120h95M1145 330v120h95M1145 330h95"/><path d="M1435 210h45v240h-45M1480 330h30"/></g>
+<rect x="930" y="285" width="190" height="90" rx="18" fill="#f2630d"/><text x="1025" y="324" text-anchor="middle" fill="#fff" font-size="16" letter-spacing="2">COORDINATOR</text><text x="1025" y="351" text-anchor="middle" fill="#fff" font-size="27" font-weight="700">AI CMO</text>
+<g fill="#3d4249" stroke="#6f8191"><rect x="1240" y="170" width="195" height="80" rx="16"/><rect x="1240" y="290" width="195" height="80" rx="16"/><rect x="1240" y="410" width="195" height="80" rx="16"/></g>
+<g fill="#e7ebef" font-size="21" text-anchor="middle"><text x="1337" y="218">Strategy</text><text x="1337" y="338">Specialist work</text><text x="1337" y="458">Evidence</text></g>
+<circle cx="1510" cy="330" r="7" fill="#f2630d"/>
+<path d="M80 590h1440" stroke="#535e69" stroke-opacity=".7"/>
+<text x="84" y="653" fill="#cbd2d9" font-size="20">LOCAL FIRST</text><text x="390" y="653" fill="#cbd2d9" font-size="20">ONE CMO + 7 SPECIALISTS</text><text x="900" y="653" fill="#cbd2d9" font-size="20">DEMO + LIVE AI</text><text x="1280" y="653" fill="#cbd2d9" font-size="20">MIT LICENSE</text>
+<text x="84" y="727" fill="#9cabb8" font-size="18">Built by Mahdi Hamidi</text><text x="1518" y="727" text-anchor="end" fill="#9cabb8" font-size="18">Python · SQLite · OpenAI</text></g></svg>
